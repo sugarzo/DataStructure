@@ -1,6 +1,5 @@
 # DataStructure
 
-**
 大二数据结构课设-科学文献管理系统dblp.xml解析
 
 程序中主要运用的技术：C++/C#、文件哈希管理、哈希表与字典、字典树、Dll动态链接库编写与调用、程序线程调度和管理、C++/C#间的数据交换、并查集、状态机设计模式。
@@ -24,6 +23,15 @@
 
 ![image](https://user-images.githubusercontent.com/74815734/164518972-1ac79236-3040-490e-b0cc-41fef08a0010.png)
 
+![image](https://user-images.githubusercontent.com/74815734/164520280-4811a45f-809e-4a3d-8e26-66505f6f28cc.png)
+
+并查集思想
+![image](https://user-images.githubusercontent.com/74815734/164519879-75e783d1-e2c6-4e5a-bc82-863d3a404b60.png)
+![image](https://user-images.githubusercontent.com/74815734/164520132-8b4b8e66-33ba-4f1c-8bd8-237ea1a0c789.png)
+
+完全子图与聚团
+
+![image](https://user-images.githubusercontent.com/74815734/164520198-329be4d1-28a1-453e-b5f5-407826d64d48.png)
 
 运行截图
 ![image](https://user-images.githubusercontent.com/74815734/164518237-a542aede-bfb4-4cf3-b5d0-f5b09c5a6bcb.png)
